@@ -12,3 +12,5 @@
 ***Bold and Italic type***
 
 ~~STRike through ~~
+
+~~Strike statement~~
