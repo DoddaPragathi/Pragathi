@@ -50,3 +50,6 @@ s.no|name
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 :tiger:
+:beach_umbrella:
+
+![Nature](https://w0.peakpx.com/wallpaper/123/943/HD-wallpaper-beauty-nature-beauty-nature-night-sunset-tree.jpg)
